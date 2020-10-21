@@ -1,0 +1,3 @@
+[submodule "development_packages/data_layer"]
+	path = development_packages/data_layer
+	url = git@github.com:xyla-io/data_layer.git
